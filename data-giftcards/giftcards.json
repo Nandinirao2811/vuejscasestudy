@@ -1,0 +1,136 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "userName": "Nandini",
+      "email": "nandini@cts.com",
+      "password": "nandu@123",
+      "confirmPassword": "nandu@123"
+    },
+    {
+      "userName": "nada",
+      "email": "nada@gmailcom",
+      "password": "nada123",
+      "confirmPassword": "nada123",
+      "id": 2
+    },
+    {
+      "userName": "jagan",
+      "email": "jagan@gmail.com",
+      "password": "jagan@123",
+      "confirmPassword": "jagan@123",
+      "id": 3
+    },
+    {
+      "userName": "lalli",
+      "email": "lalli@gmail.com",
+      "password": "lalli@123",
+      "confirmPassword": "lalli@123",
+      "id": 4
+    },
+    {
+      "userName": "nag",
+      "email": "nag@g.com",
+      "password": "nag@123",
+      "confirmPassword": "nag@123",
+      "id": 5
+    },
+    {
+      "userName": "pavi",
+      "email": "pavi@g.com",
+      "password": "pavi@12",
+      "confirmPassword": "pavi@12",
+      "id": 6
+    },
+    {
+      "userName": "pavi",
+      "email": "pavi@g.com",
+      "password": "pavi@123",
+      "confirmPassword": "pavi@123",
+      "id": 7
+    },
+    {
+      "userName": "Srinisha",
+      "email": "sri@g.com",
+      "password": "sri@12",
+      "confirmPassword": "sri@12",
+      "id": 8
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "userName": "Nandini",
+      "password": "nandu@123"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "adminUser": "admin",
+      "adminPass": "admin"
+    }
+  ],
+  "neworder": [
+    {
+      "id": 1,
+      "date": "2020-08-19",
+      "recFN": "Jos",
+      "recLN": "Din",
+      "gcv": 8500,
+      "comAmt": 425,
+      "amtPay": 8925,
+      "recMob": 898976567,
+      "addr": "chennai",
+      "sts": "OutforDelivery"
+    },
+    {
+      "date": "2020-08-20",
+      "recFN": "Jagan",
+      "recLN": "das",
+      "gcv": "9000",
+      "comAmt": 450,
+      "amtPay": 9450,
+      "recMob": "9876878356",
+      "addr": "13, chrompet, chennai",
+      "sts": "Redeemed",
+      "id": 2
+    },
+    {
+      "date": "2020-08-23",
+      "recFN": "Pavithra",
+      "recLN": "Prakash",
+      "gcv": "20000",
+      "comAmt": 1000,
+      "amtPay": 21000,
+      "recMob": "980637592",
+      "addr": "Delhi",
+      "sts": "Delivered",
+      "id": 3
+    },
+    {
+      "date": "2020-08-24",
+      "recFN": "Srinisha",
+      "recLN": "Dharman",
+      "gcv": "25000",
+      "comAmt": 1250,
+      "amtPay": 26250,
+      "recMob": "989457838",
+      "addr": "Vellore",
+      "sts": "Redeemed",
+      "id": 4
+    },
+    {
+      "date": "2020-08-24",
+      "recFN": "Tara",
+      "recLN": "Nair",
+      "gcv": "15000",
+      "comAmt": 750,
+      "amtPay": 15750,
+      "recMob": "9835672836",
+      "addr": "67, kerala",
+      "sts": "Delivered",
+      "id": 5
+    }
+  ]
+}
